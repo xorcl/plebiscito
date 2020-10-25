@@ -1,0 +1,19 @@
+{
+    "servel": {
+        "plebiscito": "http://servelelecciones.cl/data/elecciones_constitucion/computo/global/19001.json",
+        "organo": "http://servelelecciones.cl/data/elecciones_convencion/computo/global/19001.json",
+        "intervalo": 15
+    },
+    "telegram": {
+        "enabled": true,
+        "channel": "",
+        "api_key": ""
+    },
+    "twitter": {
+        "enabled": true,
+        "api_key": "",
+        "api_secret": "",
+        "access_token": "",
+        "access_token_secret: ""
+    }
+}

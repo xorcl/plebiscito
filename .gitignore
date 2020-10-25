@@ -1,0 +1,5 @@
+*.json
+venv
+*.ttf
+*.otf
+__pycache__
