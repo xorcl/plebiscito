@@ -54,8 +54,13 @@ def servel_to_state(req):
 
 def data_changed(data):
     # Load state
-    data_hash = hashlib.sha512(json.dumps(data).encode()).hexdigest()
     state = load_state()
-    state_hash = hashlib.sha512(json.dumps(state).encode()).hexdigest()
+    data_date_1 = datetime.datetime.strptime(data["constitucion"]["fecha"], READABLE_DATE)
+    data_date_2 = datetime.datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
+    data_date = max(data_date_1, data_date_2)
+    state_date_1 = datetime.datetime.strptime(state["constitucion"]["fecha"], READABLE_DATE)
+    state_date_2 = datetime.datetime.strptime(state["organo"]["fecha"], READABLE_DATE)
+    state_date = max(state_date_1, state_date_2)
+    logging.info(f"data date = {data_date.strftime(READABLE_DATE)} and state date = {state_date.strftime(READABLE_DATE)}")
     save_state(data)
-    return data_hash != state_hash
+    return data_date > state_date
