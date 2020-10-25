@@ -44,11 +44,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="2347.5801"
-     inkscape:cy="1415.4238"
+     inkscape:zoom="0.35"
+     inkscape:cx="1446.8486"
+     inkscape:cy="1018.0495"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1654"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -104,9 +104,9 @@
     <g
        id="g1677"
        transform="translate(-0.02844238)"
-       sodipodi:insensitive="true">
+       style="stroke:none">
       <rect
-         style="fill:#3a83c4;fill-opacity:1;stroke-width:0.306642"
+         style="fill:#3a83c4;fill-opacity:1;stroke-width:0.306642;stroke:none"
          id="rect1367-9"
          width="600"
          height="50"
@@ -114,19 +114,20 @@
          y="-24.07663" />
       <g
          id="g1509"
-         transform="translate(36.544887,0.29236083)">
+         transform="translate(36.544887,0.29236083)"
+         style="stroke:none">
         <g
            id="g1691"
            transform="translate(0,-4.0536423)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <g
              id="g1061"
              transform="translate(70.168445,197.81612)"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1;stroke:none">
             <g
                transform="matrix(0.59667781,0,0,0.59667781,-235.04611,-255.00318)"
                id="layer1-3-4"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1;stroke:none">
               <path
                  transform="matrix(0.26458333,0,0,0.26458333,59.630984,82.609427)"
                  d="M 43.019531,3.8378906 A 75.85101,75.85101 0 0 0 -32.832031,79.689453 75.85101,75.85101 0 0 0 43.019531,155.53906 75.85101,75.85101 0 0 0 80.978516,145.35742 75.85101,75.85101 0 0 1 43.085938,79.689453 75.85101,75.85101 0 0 1 80.978516,14.019531 75.85101,75.85101 0 0 0 43.019531,3.8378906 Z M 80.978516,14.019531 A 75.85101,75.85101 0 0 1 118.86914,79.689453 75.85101,75.85101 0 0 1 80.978516,145.35742 75.85101,75.85101 0 0 0 118.9375,155.53906 75.85101,75.85101 0 0 0 194.78906,79.689453 75.85101,75.85101 0 0 0 118.9375,3.8378906 75.85101,75.85101 0 0 0 80.978516,14.019531 Z"
@@ -135,7 +136,7 @@
             </g>
             <g
                id="g2693"
-               style="opacity:1;fill:#ffffff;fill-opacity:1">
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none">
               <path
                  style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
                  d="m -192.74158,-193.13147 h 12.12023"
@@ -147,7 +148,7 @@
             </g>
             <g
                id="g2699"
-               style="opacity:1;fill:#ffffff;fill-opacity:1">
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none">
               <path
                  style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
                  d="m -188.3772,-186.8029 3.39147,-12.65714"
@@ -169,7 +170,7 @@
              id="tspan1630-7-1"
              x="-83.57914"
              y="12.488917"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;fill-opacity:1;stroke-width:0.750933">Plebiscito Nacional 2020</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;fill-opacity:1;stroke-width:0.750933;stroke:none">Plebiscito Nacional 2020</tspan></text>
       </g>
     </g>
     <text
@@ -695,9 +696,10 @@
       </g>
     </g>
     <g
-       id="g3157">
+       id="g3157"
+       style="stroke:none">
       <rect
-         style="fill:#ef4982;fill-opacity:1;stroke-width:0.274268"
+         style="fill:#ef4982;fill-opacity:1;stroke-width:0.274268;stroke:none"
          id="rect1367"
          width="600"
          height="40"
@@ -706,14 +708,16 @@
          sodipodi:insensitive="true" />
       <g
          id="g3026"
-         transform="translate(-151.12837,2.9923157e-5)">
+         transform="translate(-151.12837,2.9923157e-5)"
+         style="stroke:none">
         <g
            id="g1562"
-           transform="translate(-83.409803,53.279388)">
+           transform="translate(-83.409803,53.279388)"
+           style="stroke:none">
           <g
              transform="matrix(0.5118444,0,0,0.5118444,67.673292,450.21465)"
              id="layer1-3"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1;stroke:none">
             <path
                d="M 43.019531,3.8378906 A 75.85101,75.85101 0 0 0 -32.832031,79.689453 75.85101,75.85101 0 0 0 43.019531,155.53906 75.85101,75.85101 0 0 0 80.978516,145.35742 75.85101,75.85101 0 0 1 43.085938,79.689453 75.85101,75.85101 0 0 1 80.978516,14.019531 75.85101,75.85101 0 0 0 43.019531,3.8378906 Z M 80.978516,14.019531 A 75.85101,75.85101 0 0 1 118.86914,79.689453 75.85101,75.85101 0 0 1 80.978516,145.35742 75.85101,75.85101 0 0 0 118.9375,155.53906 75.85101,75.85101 0 0 0 194.78906,79.689453 75.85101,75.85101 0 0 0 118.9375,3.8378906 75.85101,75.85101 0 0 0 80.978516,14.019531 Z"
                style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round"
@@ -730,7 +734,7 @@
                id="tspan927"
                x="129.61597"
                y="511.58914"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;fill:#ffffff;fill-opacity:1;stroke-width:0.328809">xor.cl</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;fill:#ffffff;fill-opacity:1;stroke-width:0.328809;stroke:none">xor.cl</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:7.90873px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.197719"
@@ -741,11 +745,12 @@
                id="tspan927-5"
                x="129.68582"
                y="500.73544"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.197719">Infografía por </tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.197719;stroke:none">Infografía por </tspan></text>
         </g>
       </g>
       <g
-         id="g1628">
+         id="g1628"
+         style="stroke:none">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:7.90874px;line-height:1.05;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.197719"
@@ -756,15 +761,16 @@
              id="tspan927-5-8"
              x="233.79626"
              y="554.55011"
-             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.197719">Actualizaciones en</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.197719;stroke:none">Actualizaciones en</tspan><tspan
              sodipodi:role="line"
              x="233.79626"
              y="563.0011"
-             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.197719"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.197719;stroke:none"
              id="tspan1529">Tiempo Real</tspan></text>
         <g
            id="g1581"
-           transform="matrix(1.3812058,0,0,1.3812058,-86.363958,-149.13155)">
+           transform="matrix(1.3812058,0,0,1.3812058,-86.363958,-149.13155)"
+           style="stroke:none">
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -775,28 +781,30 @@
                id="tspan927-9-4"
                x="349.51895"
                y="514.00092"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">xor_cl</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none">xor_cl</tspan></text>
           <g
              id="Logo__x2014__FIXED"
              transform="matrix(0.04263806,0,0,0.04263806,332.98103,502.51527)"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1;stroke:none">
             <g
                id="g9"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1;stroke:none">
               <path
                  class="st1"
                  d="m 153.6,301.6 c 94.3,0 145.9,-78.2 145.9,-145.9 0,-2.2 0,-4.4 -0.1,-6.6 10,-7.2 18.7,-16.3 25.6,-26.6 -9.2,4.1 -19.1,6.8 -29.5,8.1 10.6,-6.3 18.7,-16.4 22.6,-28.4 -9.9,5.9 -20.9,10.1 -32.6,12.4 -9.4,-10 -22.7,-16.2 -37.4,-16.2 -28.3,0 -51.3,23 -51.3,51.3 0,4 0.5,7.9 1.3,11.7 -42.6,-2.1 -80.4,-22.6 -105.7,-53.6 -4.4,7.6 -6.9,16.4 -6.9,25.8 0,17.8 9.1,33.5 22.8,42.7 -8.4,-0.3 -16.3,-2.6 -23.2,-6.4 0,0.2 0,0.4 0,0.7 0,24.8 17.7,45.6 41.1,50.3 -4.3,1.2 -8.8,1.8 -13.5,1.8 -3.3,0 -6.5,-0.3 -9.6,-0.9 6.5,20.4 25.5,35.2 47.9,35.6 -17.6,13.8 -39.7,22 -63.7,22 -4.1,0 -8.2,-0.2 -12.2,-0.7 22.6,14.4 49.6,22.9 78.5,22.9"
                  id="path7"
-                 style="fill:#ffffff;fill-opacity:1" />
+                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
             </g>
           </g>
         </g>
         <g
            id="g1586"
-           transform="matrix(1.3812058,0,0,1.3812058,-224.71586,-141.41345)">
+           transform="matrix(1.3812058,0,0,1.3812058,-224.71586,-141.41345)"
+           style="stroke:none">
           <g
              id="g3055"
-             transform="translate(0,6.879167)">
+             transform="translate(0,6.879167)"
+             style="stroke:none">
             <text
                xml:space="preserve"
                style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -807,22 +815,22 @@
                  id="tspan927-9"
                  x="353.3992"
                  y="501.6629"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">t.me/plebiscitocl</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke:none">t.me/plebiscitocl</tspan></text>
             <path
                d="m 349.6202,496.26384 c 0.25126,0.59917 0.38656,1.21767 0.38656,1.87482 0,0.65715 -0.1353,1.27565 -0.38656,1.87482 -0.25127,0.59917 -0.59918,1.1017 -1.02439,1.54624 -0.42521,0.42522 -0.94708,0.77313 -1.54625,1.02439 -0.59917,0.25126 -1.21766,0.38656 -1.87482,0.38656 -0.65715,0 -1.27565,-0.1353 -1.87481,-0.38656 -0.59918,-0.25126 -1.10171,-0.59917 -1.54625,-1.02439 -0.42522,-0.42521 -0.77312,-0.94707 -1.02439,-1.54624 -0.25126,-0.59917 -0.38656,-1.21767 -0.38656,-1.87482 0,-0.65715 0.1353,-1.27565 0.38656,-1.87482 0.25127,-0.59917 0.59917,-1.1017 1.02439,-1.54625 0.42521,-0.42521 0.94707,-0.77312 1.54625,-1.02439 0.59916,-0.25126 1.21766,-0.38655 1.87481,-0.38655 0.65716,0 1.27565,0.13529 1.87482,0.38655 0.59917,0.25127 1.10171,0.59918 1.54625,1.02439 0.42521,0.44455 0.75379,0.9664 1.02439,1.54625 z m -2.87988,4.09755 0.79245,-3.73032 c 0.0386,-0.15463 0.0193,-0.27059 -0.058,-0.3479 -0.0773,-0.0773 -0.15462,-0.0773 -0.27059,-0.0386 l -4.65806,1.79751 c -0.0966,0.0387 -0.17395,0.0773 -0.21261,0.1353 -0.0387,0.058 -0.0387,0.0966 -0.0194,0.13529 0.0194,0.0387 0.0773,0.0773 0.17396,0.0967 l 1.19833,0.36723 2.76391,-1.73953 c 0.0773,-0.058 0.1353,-0.058 0.17396,-0.0386 0.0194,0.0194 0.0194,0.0386 -0.0194,0.0773 l -2.24206,2.04877 -0.0966,1.237 c 0.0773,0 0.15463,-0.0386 0.25127,-0.11597 l 0.57984,-0.56051 1.19834,0.88909 c 0.25127,0.13529 0.38656,0.058 0.44455,-0.21261 z"
                id="path6"
-               style="fill:#ffffff;fill-opacity:1;stroke-width:0.19328" />
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.19328;stroke:none" />
           </g>
         </g>
       </g>
       <g
          id="g2639"
          transform="translate(-7.5449145,51.640687)"
-         style="fill:#ffffff">
+         style="fill:#ffffff;stroke:none">
         <g
            id="g995-3"
            transform="matrix(1.2366797,0,0,1.2366797,-396.65957,130.73537)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:7.22584px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.180646"
@@ -833,7 +841,7 @@
                id="tspan927-7"
                x="346.4039"
                y="307.54535"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.180646">servelelecciones.cl</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.180646;stroke:none">servelelecciones.cl</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:6.36393px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.159099"
@@ -844,11 +852,11 @@
                id="tspan927-5-3"
                x="346.53674"
                y="300.90149"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.159099">Resultados obtenidos de</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1;stroke-width:0.159099;stroke:none">Resultados obtenidos de</tspan></text>
         </g>
         <path
            id="path843"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.0325347"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.0325347;stroke:none"
            d="m 12.583118,504.92895 v -12.26558 h 1.13332 1.13332 l -0.07438,0.38229 c -0.04091,0.21025 -0.07509,0.40074 -0.07594,0.4233 -0.0012,0.0325 0.280206,0.0392 1.356016,0.0325 l 1.357575,-0.009 0.07334,-0.34161 c 0.04033,-0.1879 0.08121,-0.37457 0.09084,-0.41482 l 0.0175,-0.0732 h 5.204929 5.204928 v 12.26558 12.26557 h -7.710728 -7.71072 z m 13.404286,10.32976 c 0,-0.0432 -0.650693,-0.0489 -5.661033,-0.0489 -5.010339,0 -5.661033,0.006 -5.661033,0.0489 0,0.0432 0.650694,0.0487 5.661033,0.0487 5.01034,0 5.661033,-0.006 5.661033,-0.0487 z m -3.650983,-2.95252 0.0092,-0.38229 h -0.993339 -0.99334 v -1.41526 -1.41526 h 0.878436 0.878435 v -0.37415 -0.37415 h -0.878435 -0.878436 v -1.25258 -1.25258 h 0.927238 0.927237 v -0.37415 -0.37415 h -1.33396 -1.333922 v 3.8069 3.80691 l 1.390857,-0.009 1.390858,-0.009 z m 3.67645,0.0162 0.0092,-0.36601 h -0.993412 -0.993374 v -3.43241 -3.43241 h -0.406684 -0.406683 v 3.80692 3.8069 l 1.39086,-0.009 1.390857,-0.009 z m -8.149393,-3.09087 c 0.407973,-1.89225 0.77578,-3.59785 0.817347,-3.79021 l 0.07558,-0.34975 h -0.427369 -0.427367 l -0.430983,2.30183 c -0.475589,2.54004 -0.532656,2.8653 -0.640545,3.65062 -0.04066,0.29603 -0.08198,0.51627 -0.09181,0.48942 -0.0099,-0.0269 -0.04268,-0.22449 -0.073,-0.43921 -0.07804,-0.55279 -0.279364,-1.65489 -0.713157,-3.90417 -0.207061,-1.07364 -0.383937,-1.98502 -0.393056,-2.02528 -0.01615,-0.0713 -0.02754,-0.0732 -0.43891,-0.0732 -0.232282,0 -0.422332,0.006 -0.422332,0.0136 0,0.011 1.437479,6.81411 1.562812,7.39615 l 0.03678,0.1708 0.412121,-6e-5 0.41212,-6e-5 z m -1.442741,-5.48912 c 0.662433,-0.17712 1.167057,-0.70295 1.359144,-1.41629 0.08942,-0.33205 0.07966,-1.01595 -0.01905,-1.33391 -0.201578,-0.64939 -0.475519,-0.9846 -1.435717,-1.75688 -0.508378,-0.40888 -0.71627,-0.77643 -0.71627,-1.26637 0,-0.52187 0.252302,-0.92754 0.661391,-1.06341 0.259302,-0.0861 0.666288,-0.0523 0.946364,0.0788 0.123148,0.0577 0.227514,0.1009 0.231922,0.0961 0.0044,-0.005 0.05213,-0.17298 0.106052,-0.37378 l 0.09804,-0.36506 -0.167844,-0.0812 c -0.371765,-0.18005 -0.906706,-0.23379 -1.307856,-0.13137 -0.835227,0.21324 -1.378732,0.96465 -1.380861,1.90911 -7.3e-4,0.32242 0.04598,0.53889 0.178794,0.82877 0.203806,0.44482 0.492159,0.78359 1.079304,1.26806 0.77526,0.63969 1.017811,1.06926 0.977863,1.73186 -0.02133,0.35371 -0.113553,0.60219 -0.300819,0.81048 -0.358305,0.39852 -1.004562,0.4653 -1.637339,0.16919 -0.144447,-0.0675 -0.219173,-0.0877 -0.234409,-0.063 -0.0123,0.0199 -0.05575,0.18342 -0.09655,0.36335 l -0.07417,0.32716 0.07779,0.0597 c 0.101289,0.0778 0.515103,0.21628 0.761929,0.25488 0.242259,0.0379 0.658506,0.0164 0.892311,-0.0462 z m 5.174487,-0.37517 v -0.39042 h -0.992308 -0.992307 v -1.41525 -1.41527 h 0.878436 0.878437 v -0.37415 -0.37414 h -0.878437 -0.878436 v -1.25259 -1.25258 h 0.927238 0.927238 v -0.37415 -0.37415 h -1.333921 -1.333921 v 3.80655 3.80656 h 1.39899 1.398991 z m 1.691802,-1.26885 v -1.65928 h 0.255107 c 0.76881,0 1.027232,0.34036 1.22279,1.61048 0.0967,0.62801 0.228548,1.31065 0.298938,1.54768 l 0.04763,0.16038 h 0.405423 c 0.222981,0 0.405383,-0.004 0.405335,-0.009 -3.4e-5,-0.005 -0.04317,-0.17854 -0.09582,-0.38681 -0.05265,-0.20826 -0.156667,-0.74265 -0.231148,-1.18751 -0.187798,-1.12171 -0.310395,-1.48797 -0.602631,-1.80039 -0.07886,-0.0843 -0.200816,-0.17919 -0.271021,-0.21085 l -0.127647,-0.0575 0.239538,-0.16022 c 0.384647,-0.25726 0.622077,-0.57054 0.760671,-1.00366 0.09387,-0.29338 0.132543,-0.73292 0.09731,-1.10614 -0.08365,-0.886 -0.503554,-1.43159 -1.267233,-1.64658 -0.381287,-0.10737 -1.326907,-0.0938 -1.812333,0.0259 l -0.138272,0.0341 v 3.7539 3.75388 h 0.406682 0.406684 z m 0,-3.78533 v -1.45152 l 0.08222,-0.0206 c 0.169561,-0.0425 0.708329,0.004 0.865267,0.0745 0.448089,0.20177 0.647156,0.60866 0.646325,1.32111 -6.14e-4,0.51806 -0.113833,0.85017 -0.38911,1.14123 -0.238208,0.25186 -0.476832,0.35181 -0.887159,0.37157 l -0.317544,0.0153 z" />
       </g>
     </g>
