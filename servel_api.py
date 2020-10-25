@@ -18,7 +18,7 @@ def get_servel_data(conf):
 
 def servel_to_state(req):
     data = req.json()
-    date = eut.parsedate_to_datetime(req.headers["last-modified"]).replace(tzinfo=datetime.timezone(datetime.timedelta(hours=-3))).strftime(READABLE_DATE)
+    date = (eut.parsedate_to_datetime(req.headers["last-modified"]) - datetime.timedelta(hours=3)).strftime(READABLE_DATE)
     state = {
         "fecha": date,
         "resultados": {},
