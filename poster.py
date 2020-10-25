@@ -26,7 +26,7 @@ class Poster:
     def _telegram_post(self, img, data):
         try:
             with open(img, 'rb') as f:
-                msg = self.telegram.send_photo(chat_id=self.config["telegram"]["channel"], caption=self._gen_text(data), photo=f)
+                msg = self.telegram.send_photo(chat_id=self.config["telegram"]["channel"], caption=self._gen_text(data), photo=f, disable_notification=True)
             logging.info(f"posted in telegram successfully!")
         except Exception as e:
             logging.error(f"cannot post in telegram: {e}")
