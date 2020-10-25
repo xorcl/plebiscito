@@ -1,5 +1,4 @@
 Pillow
 python-twitter
-instapy-cli
 python-telegram-bot
 requests

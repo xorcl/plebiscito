@@ -6,6 +6,7 @@ import datetime
 import json
 import email.utils as eut
 from img_constants import READABLE_DATE
+import logging
 
 def get_servel_data(conf):
     constitucion = requests.get(conf["constitucion"])

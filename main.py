@@ -22,15 +22,18 @@ if __name__ == "__main__":
     while True:
         start_time = datetime.now()
         logging.info("Woke up")
-        data = get_servel_data(config["servel"])
-        if data_changed(data) or config["servel"]["force_gen"]:
-            logging.info("Data has changed! generating image...")
-            img = generate_image(data)
-            logging.info("Posting generated image...")
-            poster.post(img, data)
-            logging.info("Done!")
-        else:
-            logging.info("Data has not changed since last time we got it")
+        try:
+            data = get_servel_data(config["servel"])
+            if data_changed(data) or config["servel"]["force_gen"]:
+                logging.info("Data has changed! generating image...")
+                img = generate_image(data)
+                logging.info("Posting generated image...")
+                poster.post(img, data)
+                logging.info("Done!")
+            else:
+                logging.info("Data has not changed since last time we got it")
+        except Exception as e:
+            logging.error(f"error executing loop: {e}")
         end_time = datetime.now()
         delta = (end_time - start_time).seconds
         if delta < sleep_time:
