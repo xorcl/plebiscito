@@ -3,3 +3,4 @@ venv
 *.ttf
 *.otf
 __pycache__
+img/
