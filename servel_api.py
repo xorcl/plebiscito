@@ -29,24 +29,24 @@ def servel_to_state(req):
     # Resultados
     for v in data["data"]:
         state["resultados"][v["a"].lower()] = {
-            "votos": v["c"],
+            "votos": "{:,}".format(int(v["c"])).replace(",","."),
             "porcentaje": v["d"],
             "ganadora": v["f"]
         }
     for v in data["resumen"]:
         if v["a"].lower() in ("válidamente emitidos", "total votación"):
             state["votos"][v["a"].lower()] = {
-                "votos": v["c"],
+                "votos": "{:,}".format(int(v["c"])).replace(",","."),
                 "porcentaje": v["d"]
             }
         elif v["a"].lower() in ("votos nulos", "votos en blanco"):
             state["invalidos"][v["a"].lower()] = {
-                "votos": v["c"],
+                "votos": "{:,}".format(int(v["c"])).replace(",","."),
                 "porcentaje": v["d"]
             }
     state["mesas"] = {
-        "total": data["totalMesas"],
-        "escrutadas": data["mesasEscrutadas"],
+        "total": "{:,}".format(int(data["totalMesas"])).replace(",","."),
+        "escrutadas": "{:,}".format(int(data["mesasEscrutadas"])).replace(",","."),
         "porcentaje": data["totalMesasPorcent"],
     }
     return state
