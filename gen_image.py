@@ -28,11 +28,12 @@ def generate_image(data):
     w, _ = draw.textsize(data["constitucion"]["resultados"]["rechazo"]["votos"], font=total_votes_font)
     draw.text((img_in.width - TOTAL_VOTES_X - w, FIRST_TOTAL_VOTES_Y),data["constitucion"]["resultados"]["rechazo"]["votos"],GREY,font=total_votes_font)
     ## Gráfico
-    first_perc_float = float(data["constitucion"]["resultados"]["apruebo"]["porcentaje"].strip("%").replace(",","."))
-    arc = (180 + (first_perc_float * 180) / 100)
-    draw.arc(FIRST_DONUT, 180, arc, RED, 142)
-    if first_perc_float != 0.00:
-        draw.arc(FIRST_DONUT, arc, 360, BLUE, 142)
+    first_perc_float_left = float(data["constitucion"]["resultados"]["apruebo"]["porcentaje"].strip("%").replace(",","."))
+    arc_left = (180 + (first_perc_float_left * 180) / 100)
+    draw.arc(FIRST_DONUT, 180, arc_left, RED, 142)
+    first_perc_float_right = float(data["constitucion"]["resultados"]["rechazo"]["porcentaje"].strip("%").replace(",","."))
+    arc_left = (first_perc_float_right * 180 / 100)
+    draw.arc(FIRST_DONUT, 360 - arc_left, 360, BLUE, 142)
     ## Tabla de detalles
     ### Mesas
     draw.text((BOXES_DETAIL_X, FIRST_DETAIL1_Y),data["constitucion"]["mesas"]["escrutadas"],WHITE,font=details_font)
@@ -53,11 +54,15 @@ def generate_image(data):
     w, _ = draw.textsize(data["organo"]["resultados"]["convención constitucional"]["votos"], font=total_votes_font)
     draw.text((img_in.width - TOTAL_VOTES_X - w, SECOND_TOTAL_VOTES_Y),data["organo"]["resultados"]["convención constitucional"]["votos"],GREY,font=total_votes_font)
     ## Gráfico
-    second_perc_float = float(data["organo"]["resultados"]["convención mixta constitucional"]["porcentaje"].strip("%").replace(",","."))
-    arc = (180 + (second_perc_float * 180) / 100)
+    second_perc_float_left = float(data["organo"]["resultados"]["convención mixta constitucional"]["porcentaje"].strip("%").replace(",","."))
+    arc = (180 + (second_perc_float_left * 180) / 100)
     draw.arc(SECOND_DONUT, 180, arc, RED, 142)
-    if second_perc_float != 0.00:
-        draw.arc(SECOND_DONUT, arc, 360, BLUE, 142)
+    
+    second_perc_float_right = float(data["organo"]["resultados"]["convención constitucional"]["porcentaje"].strip("%").replace(",","."))
+    arc_left = (second_perc_float_right * 180 / 100)
+    draw.arc(SECOND_DONUT, 360 - arc_left, 360, BLUE, 142)
+
+
     ## Tabla de detalles
     draw.text((BOXES_DETAIL_X, SECOND_DETAIL1_Y),data["organo"]["mesas"]["escrutadas"],WHITE,font=details_font)
     draw.text((BOXES_DETAIL_X, SECOND_DETAIL2_Y),data["organo"]["mesas"]["total"],WHITE,font=details_font)
