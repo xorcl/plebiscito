@@ -48,7 +48,7 @@
      inkscape:cx="1446.8486"
      inkscape:cy="1018.0495"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3205"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -91,16 +91,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11.4648px;line-height:1.25;font-family:sans-serif;fill:#9d9dad;fill-opacity:1;stroke:none;stroke-width:0.286622"
-       x="-29.623238"
+       x="-44.439919"
        y="52.390713"
        id="text1632-5-7"><tspan
          sodipodi:role="line"
          id="tspan1630-9-6"
-         x="-29.623238"
+         x="-44.439919"
          y="52.390713"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d9dad;fill-opacity:1;stroke-width:0.286622">Resultados Parciales, actualizados al: <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff"
-   id="tspan1365" /></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d9dad;fill-opacity:1;stroke-width:0.286622">Resultados preliminares actualizados al: </tspan></text>
     <g
        id="g1677"
        transform="translate(-0.02844238)"
