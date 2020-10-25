@@ -39,8 +39,9 @@ def generate_image(data):
     draw.text((BOXES_DETAIL_X, FIRST_DETAIL1_Y),data["constitucion"]["mesas"]["escrutadas"],WHITE,font=details_font)
     draw.text((BOXES_DETAIL_X, FIRST_DETAIL2_Y),data["constitucion"]["mesas"]["total"],WHITE,font=details_font)
     ### Votos
+    perc_total_first = "{:.2f}".format(int(data['constitucion']['votos']['válidamente emitidos']['votos'].replace(".","")) / TOTAL_VOTANTES * 100)
     draw.text((VOTES_DETAIL_X, FIRST_DETAIL1_Y),f"{data['constitucion']['votos']['válidamente emitidos']['votos']} ({data['constitucion']['votos']['válidamente emitidos']['porcentaje']} totales)",WHITE,font=details_font)
-    draw.text((VOTES_DETAIL_X, FIRST_DETAIL2_Y),f"{data['constitucion']['votos']['total votación']['votos']} ({data['constitucion']['votos']['total votación']['porcentaje']} padrón)",WHITE,font=details_font)
+    draw.text((VOTES_DETAIL_X, FIRST_DETAIL2_Y),f"{data['constitucion']['votos']['total votación']['votos']} ({perc_total_first}% padrón)",WHITE,font=details_font)
     ### Inválidos
     draw.text((INVALID_DETAIL_X, FIRST_DETAIL1_Y),f"{data['constitucion']['invalidos']['votos nulos']['votos']} ({data['constitucion']['invalidos']['votos nulos']['porcentaje']} totales)",WHITE,font=details_font)
     draw.text((INVALID_DETAIL_X, FIRST_DETAIL2_Y),f"{data['constitucion']['invalidos']['votos en blanco']['votos']} ({data['constitucion']['invalidos']['votos en blanco']['porcentaje']} totales)",WHITE,font=details_font)
@@ -67,8 +68,10 @@ def generate_image(data):
     draw.text((BOXES_DETAIL_X, SECOND_DETAIL1_Y),data["organo"]["mesas"]["escrutadas"],WHITE,font=details_font)
     draw.text((BOXES_DETAIL_X, SECOND_DETAIL2_Y),data["organo"]["mesas"]["total"],WHITE,font=details_font)
     ### Votos
+
+    perc_total_second = "{:.2f}".format(int(data['organo']['votos']['válidamente emitidos']['votos'].replace(".","")) / TOTAL_VOTANTES * 100)
     draw.text((VOTES_DETAIL_X, SECOND_DETAIL1_Y),f"{data['organo']['votos']['válidamente emitidos']['votos']} ({data['organo']['votos']['válidamente emitidos']['porcentaje']} totales)",WHITE,font=details_font)
-    draw.text((VOTES_DETAIL_X, SECOND_DETAIL2_Y),f"{data['organo']['votos']['total votación']['votos']} ({data['organo']['votos']['total votación']['porcentaje']} padrón)",WHITE,font=details_font)
+    draw.text((VOTES_DETAIL_X, SECOND_DETAIL2_Y),f"{data['organo']['votos']['total votación']['votos']} ({perc_total_second}% padrón)",WHITE,font=details_font)
     ### Inválidos
     draw.text((INVALID_DETAIL_X, SECOND_DETAIL1_Y),f"{data['organo']['invalidos']['votos nulos']['votos']} ({data['organo']['invalidos']['votos nulos']['porcentaje']} totales)",WHITE,font=details_font)
     draw.text((INVALID_DETAIL_X, SECOND_DETAIL2_Y),f"{data['organo']['invalidos']['votos en blanco']['votos']} ({data['organo']['invalidos']['votos en blanco']['porcentaje']} totales)",WHITE,font=details_font)
