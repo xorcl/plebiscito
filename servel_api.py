@@ -54,17 +54,23 @@ def servel_to_state(req):
 
 def data_changed(data):
     # Load state
+    newest_data = {}
     try:
         state = load_state()
         save_state(data)
         data_date_1 = datetime.datetime.strptime(data["constitucion"]["fecha"], READABLE_DATE)
-        data_date_2 = datetime.datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
-        data_date = max(data_date_1, data_date_2)
         state_date_1 = datetime.datetime.strptime(state["constitucion"]["fecha"], READABLE_DATE)
+        if data_date_1 > state_date_1:
+            newest_data["constitucion"] = data["constitucion"]
+        else:
+            newest_data["constitucion"] = state["constitucion"]
+        data_date_2 = datetime.datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
         state_date_2 = datetime.datetime.strptime(state["organo"]["fecha"], READABLE_DATE)
-        state_date = max(state_date_1, state_date_2)
-        logging.info(f"data date = {data_date.strftime(READABLE_DATE)} and state date = {state_date.strftime(READABLE_DATE)}")
-        return data_date > state_date
-    except Exception as e:
+        if data_date_1 > state_date_1:
+            newest_data["organo"] = data["organo"]
+        else:
+            newest_data["organo"] = state["organo"]        
+        return max(state_date_1, state_date_2) > max(data_date_1, data_date_2), newest_data
+    except Exception:
         # No state:
-        return True
+        return True, data

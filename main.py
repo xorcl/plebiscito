@@ -23,8 +23,9 @@ if __name__ == "__main__":
         start_time = datetime.now()
         logging.info("Woke up")
         try:
-            data = get_servel_data(config["servel"])
-            if data_changed(data) or config["servel"]["force_gen"]:
+            server_data = get_servel_data(config["servel"])
+            changed, data = data_changed(server_data)
+            if changed or config["servel"]["force_gen"]:
                 logging.info("Data has changed! generating image...")
                 img = generate_image(data)
                 logging.info("Posting generated image...")
