@@ -57,7 +57,6 @@ def data_changed(data):
     newest_data = {}
     try:
         state = load_state()
-        save_state(data)
         data_date_1 = datetime.datetime.strptime(data["constitucion"]["fecha"], READABLE_DATE)
         state_date_1 = datetime.datetime.strptime(state["constitucion"]["fecha"], READABLE_DATE)
         newest_data_date_1 = max(data_date_1, state_date_1)
@@ -72,12 +71,14 @@ def data_changed(data):
             newest_data["organo"] = data["organo"]
         else:
             newest_data["organo"] = state["organo"]
+        save_state(newest_data)
         newest_data_date = max(newest_data_date_1, newest_data_date_2)
         state_date = max(state_date_1, state_date_2)
         logging.info(f"newest_date={newest_data_date.strftime(READABLE_DATE)}, state_date={state_date.strftime(READABLE_DATE)}")
         return state_date < newest_data_date, newest_data
     except Exception:
         # No state:
+        save_state(data)
         return True, data
 
 def same_data(d1, d2):
