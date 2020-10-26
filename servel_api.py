@@ -67,7 +67,7 @@ def data_changed(data):
         data_date_2 = datetime.datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
         state_date_2 = datetime.datetime.strptime(state["organo"]["fecha"], READABLE_DATE)
         newest_data_date_2 = max(data_date_2, state_date_2)
-        if data_date_1 > state_date_1:
+        if data_date_2 > state_date_2:
             newest_data["organo"] = data["organo"]
         else:
             newest_data["organo"] = state["organo"]
