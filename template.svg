@@ -215,10 +215,10 @@
        id="text2920"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2922);fill:#000000;fill-opacity:1;stroke:none;" />
     <g
-       id="g3247">
+       id="g1222">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:30.0371px;line-height:1.25;font-family:sans-serif;fill:#ef3f85;fill-opacity:1;stroke:none;stroke-width:0.750932;"
+         style="font-style:normal;font-weight:normal;font-size:30.0371px;line-height:1.25;font-family:sans-serif;fill:#ef3f85;fill-opacity:1;stroke:none;stroke-width:0.750932"
          x="-132.33806"
          y="146.39943"
          id="text1632"><tspan
@@ -226,7 +226,7 @@
            id="tspan1630"
            x="-132.33806"
            y="146.39943"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ef3f85;fill-opacity:1;stroke-width:0.750932;">Apruebo</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ef3f85;fill-opacity:1;stroke-width:0.750932">Apruebo</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:30.0371px;line-height:1.25;font-family:sans-serif;fill:#3a83c4;fill-opacity:1;stroke:none;stroke-width:0.750933"
@@ -275,7 +275,7 @@
              id="g1654">
             <path
                id="path1652"
-               style="fill:#ffffff;fill-opacity:0.15623355;stroke-width:1.15231"
+               style="fill:#ffffff;fill-opacity:0.156234;stroke-width:1.15231"
                d="M 371.46875,494.55664 A 364.7527,364.7527 0 0 0 189.0918,810.44141 h 156.49414 a 208.25972,208.25972 0 0 1 104.1289,-180.35938 208.25972,208.25972 0 0 1 208.25977,0 208.25972,208.25972 0 0 1 104.13086,180.35938 H 918.59766 A 364.7527,364.7527 0 0 0 736.2207,494.55664 a 364.7527,364.7527 0 0 0 -364.75195,0 z"
                transform="scale(0.26458333)" />
             <path
@@ -336,361 +336,360 @@
       <g
          id="g2153"
          transform="translate(0,10.583334)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="301.66299"
-           y="265.35611"
-           id="text1632-5-73"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65"
+        <g
+           id="g1032">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
              x="301.66299"
              y="265.35611"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Nulo</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="-117.32839"
-           y="265.35611"
-           id="text1632-5-73-2-9"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-3"
-             x="-117.32839"
-             y="265.35611"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Escrutadas</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="-97.571121"
-           y="275.7196"
-           id="text1632-5-73-2-5-6"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-0"
-             x="-97.571121"
-             y="275.7196"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.286028;"
-           x="-101.74081"
-           y="252.48039"
-           id="text1632-5-73-2-5-7"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-5"
-             x="-101.74081"
-             y="252.48039"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;stroke-width:0.286028;fill-opacity:1;">Mesas</tspan></text>
-        <path
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.271965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-           d="M -115.22349,254.95239 H -7.5229965"
-           id="path1227" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="54.066143"
-           y="265.63071"
-           id="text1632-5-73-2-9-5"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-3-9"
-             x="54.066143"
-             y="265.63071"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Válidos</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="54.244228"
-           y="275.7196"
-           id="text1632-5-73-2-5-6-2"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-0-2"
-             x="54.244228"
-             y="275.7196"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.286028;"
-           x="51.662037"
-           y="252.07654"
-           id="text1632-5-73-2-5-7-6"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-5-1"
-             x="51.662037"
-             y="252.07654"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;stroke-width:0.286028;fill-opacity:1;">VOTOS</tspan></text>
-        <path
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.368428px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-           d="M 37.650192,254.01933 H 235.30067"
-           id="path1227-2" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="291.28574"
-           y="275.7196"
-           id="text1632-5-73-93"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1"
-             x="291.28574"
-             y="275.7196"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Blanco</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g3205">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12.6729px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#ef4982;fill-opacity:1;stroke:none;stroke-width:0.316824"
-         x="-132.48338"
-         y="361.15964"
-         id="text1632-4"><tspan
-           sodipodi:role="line"
-           id="tspan1630-18"
-           x="-132.48338"
-           y="361.15964"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:start;text-anchor:start;fill:#ef4982;fill-opacity:1;stroke-width:0.316824">CONVENCIÓN Mixta</tspan><tspan
-           sodipodi:role="line"
-           x="-132.48338"
-           y="377.71222"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:start;text-anchor:start;fill:#ef4982;fill-opacity:1;stroke-width:0.316824"
-           id="tspan1302">CONSTITUCIONAL</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12.6729px;line-height:1.25;font-family:sans-serif;fill:#3a83c4;fill-opacity:1;stroke:none;stroke-width:0.316825"
-         x="429.58499"
-         y="362.47458"
-         id="text1632-4-8"><tspan
-           sodipodi:role="line"
-           x="429.58499"
-           y="362.47458"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:end;text-anchor:end;fill:#3a83c4;fill-opacity:1;stroke-width:0.316825"
-           id="tspan1302-8">CONVENCIÓN</tspan><tspan
-           sodipodi:role="line"
-           x="429.58499"
-           y="379.02716"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:end;text-anchor:end;fill:#3a83c4;fill-opacity:1;stroke-width:0.316825"
-           id="tspan1327">CONSTITUCIONAL</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:13.1383px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.328459"
-         x="-90.821709"
-         y="333.89017"
-         id="text1632-7-3-9-7"><tspan
-           sodipodi:role="line"
-           id="tspan1630-7-1-7-6"
-           x="-90.821709"
-           y="333.89017"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;stroke-width:0.328459">¿QUé tipo de órgano debiera redactar la Nueva Constitución?</tspan></text>
-      <g
-         id="g1751-4"
-         transform="translate(0,238.12528)">
-        <g
-           id="g1751-5">
+             id="text1632-5-73"><tspan
+               sodipodi:role="line"
+               id="tspan1630-9-65"
+               x="301.66299"
+               y="265.35611"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Nulo</tspan></text>
           <g
-             id="g1661-3">
-            <g
-               id="g1654-5">
-              <path
-                 id="path1652-6"
-                 style="fill:#ffffff;fill-opacity:0.15623355;stroke-width:1.15231"
-                 d="M 371.46875,494.55664 A 364.7527,364.7527 0 0 0 189.0918,810.44141 h 156.49414 a 208.25972,208.25972 0 0 1 104.1289,-180.35938 208.25972,208.25972 0 0 1 208.25977,0 208.25972,208.25972 0 0 1 104.13086,180.35938 H 918.59766 A 364.7527,364.7527 0 0 0 736.2207,494.55664 a 364.7527,364.7527 0 0 0 -364.75195,0 z"
-                 transform="scale(0.26458333)" />
-              <path
-                 style="fill:#a1a1b1;fill-opacity:1;stroke:#a1a1b1;stroke-width:1.00243;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="m 146.00891,107.37732 v 10.38104"
-                 id="path2827-2" />
-            </g>
+             id="g992">
             <text
                xml:space="preserve"
-               style="font-style:normal;font-weight:normal;font-size:11.2573px;line-height:1.25;font-family:sans-serif;fill:#9c9cad;fill-opacity:1;stroke:#000000;stroke-width:0.281435;stroke-opacity:0"
-               x="138.89719"
-               y="115.83243"
-               id="text1632-0-7-9"
-               inkscape:transform-center-x="1.1064098"
-               inkscape:transform-center-y="1.2095588e-05"><tspan
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="-117.32839"
+               y="265.35611"
+               id="text1632-5-73-2-9"><tspan
                  sodipodi:role="line"
-                 id="tspan1630-3-9-12"
-                 x="138.89719"
-                 y="115.83243"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#9c9cad;fill-opacity:1;stroke:#000000;stroke-width:0.281435;stroke-opacity:0">50%</tspan></text>
+                 id="tspan1630-9-65-1-3"
+                 x="-117.32839"
+                 y="265.35611"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Escrutadas</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="-97.571121"
+               y="275.7196"
+               id="text1632-5-73-2-5-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-0"
+                 x="-97.571121"
+                 y="275.7196"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="-101.74081"
+               y="252.48039"
+               id="text1632-5-73-2-5-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-5"
+                 x="-101.74081"
+                 y="252.48039"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;fill-opacity:1;stroke-width:0.286028">Mesas</tspan></text>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M -115.22349,254.95239 H 33.858429"
+               id="path1227"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g1010"
+             transform="translate(0,0.18516776)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="84.757835"
+               y="265.63071"
+               id="text1632-5-73-2-9-5"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-3-9"
+                 x="84.757835"
+                 y="265.63071"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Válidos</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="84.935921"
+               y="275.7196"
+               id="text1632-5-73-2-5-6-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-0-2"
+                 x="84.935921"
+                 y="275.7196"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="82.353729"
+               y="252.07654"
+               id="text1632-5-73-2-5-7-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-5-1"
+                 x="82.353729"
+                 y="252.07654"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;fill-opacity:1;stroke-width:0.286028">VOTOS</tspan></text>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 68.341878,254.01933 H 265.99253"
+               id="path1227-2" />
           </g>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.176282"
-             x="146.70741"
-             y="199.84917"
-             id="text1632-0-4-1-5-7-7"
-             inkscape:transform-center-x="11.075025"
-             inkscape:transform-center-y="-12.281582"><tspan
+             style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+             x="291.28574"
+             y="275.7196"
+             id="text1632-5-73-93"><tspan
                sodipodi:role="line"
-               x="146.70741"
-               y="199.84917"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:center;text-anchor:middle;fill:#a1a1b1;fill-opacity:1;stroke-width:0.176282"
-               id="tspan3066-0">Votos válidamente</tspan><tspan
+               id="tspan1630-9-65-1"
+               x="291.28574"
+               y="275.7196"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Blanco</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1272">
+      <g
+         id="g2153-6"
+         transform="translate(0.08759766,237.64814)">
+        <g
+           id="g1032-7">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+             x="301.66299"
+             y="265.35611"
+             id="text1632-5-73-5"><tspan
                sodipodi:role="line"
-               x="146.70741"
-               y="213.27475"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:center;text-anchor:middle;fill:#a1a1b1;fill-opacity:1;stroke-width:0.176282"
-               id="tspan1541-9">emitidos</tspan></text>
+               id="tspan1630-9-65-3"
+               x="301.66299"
+               y="265.35611"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Nulo</tspan></text>
+          <g
+             id="g992-5">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="-117.32839"
+               y="265.35611"
+               id="text1632-5-73-2-9-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-3-2"
+                 x="-117.32839"
+                 y="265.35611"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Escrutadas</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="-97.571121"
+               y="275.7196"
+               id="text1632-5-73-2-5-6-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-0-1"
+                 x="-97.571121"
+                 y="275.7196"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="-101.74081"
+               y="252.48039"
+               id="text1632-5-73-2-5-7-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-5-7"
+                 x="-101.74081"
+                 y="252.48039"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;fill-opacity:1;stroke-width:0.286028">Mesas</tspan></text>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M -115.22349,254.95239 H 33.858429"
+               id="path1227-0"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g1010-9"
+             transform="translate(0,0.18516776)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="84.757835"
+               y="265.63071"
+               id="text1632-5-73-2-9-5-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-3-9-6"
+                 x="84.757835"
+                 y="265.63071"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Válidos</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="84.935921"
+               y="275.7196"
+               id="text1632-5-73-2-5-6-2-06"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-0-2-2"
+                 x="84.935921"
+                 y="275.7196"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.286028"
+               x="82.353729"
+               y="252.07654"
+               id="text1632-5-73-2-5-7-6-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan1630-9-65-1-7-5-1-1"
+                 x="82.353729"
+                 y="252.07654"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;fill-opacity:1;stroke-width:0.286028">VOTOS</tspan></text>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 68.341878,254.01933 H 265.99253"
+               id="path1227-2-8" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#8f8ea3;fill-opacity:1;stroke:none;stroke-width:0.286028"
+             x="291.28574"
+             y="275.7196"
+             id="text1632-5-73-93-7"><tspan
+               sodipodi:role="line"
+               id="tspan1630-9-65-1-9"
+               x="291.28574"
+               y="275.7196"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#8f8ea3;fill-opacity:1;stroke-width:0.286028">Blanco</tspan></text>
         </g>
       </g>
       <g
-         id="g1893-5"
-         transform="translate(0,245.60334)">
+         id="g3205">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.1467px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.278669"
-           x="-129.04794"
-           y="206.8732"
-           id="text1632-0-4-1-47"
-           inkscape:transform-center-x="17.50762"
-           inkscape:transform-center-y="-19.414906"><tspan
+           style="font-style:normal;font-weight:normal;font-size:12.6729px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#ef4982;fill-opacity:1;stroke:none;stroke-width:0.316824"
+           x="-132.48338"
+           y="361.15964"
+           id="text1632-4"><tspan
              sodipodi:role="line"
-             id="tspan1630-3-44-5-2"
+             id="tspan1630-18"
+             x="-132.48338"
+             y="361.15964"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:start;text-anchor:start;fill:#ef4982;fill-opacity:1;stroke-width:0.316824">CONVENCIÓN Mixta</tspan><tspan
+             sodipodi:role="line"
+             x="-132.48338"
+             y="377.71222"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:start;text-anchor:start;fill:#ef4982;fill-opacity:1;stroke-width:0.316824"
+             id="tspan1302">CONSTITUCIONAL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12.6729px;line-height:1.25;font-family:sans-serif;fill:#3a83c4;fill-opacity:1;stroke:none;stroke-width:0.316825"
+           x="429.58499"
+           y="362.47458"
+           id="text1632-4-8"><tspan
+             sodipodi:role="line"
+             x="429.58499"
+             y="362.47458"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:end;text-anchor:end;fill:#3a83c4;fill-opacity:1;stroke-width:0.316825"
+             id="tspan1302-8">CONVENCIÓN</tspan><tspan
+             sodipodi:role="line"
+             x="429.58499"
+             y="379.02716"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';text-align:end;text-anchor:end;fill:#3a83c4;fill-opacity:1;stroke-width:0.316825"
+             id="tspan1327">CONSTITUCIONAL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:13.1383px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.328459"
+           x="-90.821709"
+           y="333.89017"
+           id="text1632-7-3-9-7"><tspan
+             sodipodi:role="line"
+             id="tspan1630-7-1-7-6"
+             x="-90.821709"
+             y="333.89017"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;stroke-width:0.328459">¿QUé tipo de órgano debiera redactar la Nueva Constitución?</tspan></text>
+        <g
+           id="g1751-4"
+           transform="translate(0,238.12528)">
+          <g
+             id="g1751-5">
+            <g
+               id="g1661-3">
+              <g
+                 id="g1654-5">
+                <path
+                   id="path1652-6"
+                   style="fill:#ffffff;fill-opacity:0.15623355;stroke-width:1.15231"
+                   d="M 371.46875,494.55664 A 364.7527,364.7527 0 0 0 189.0918,810.44141 h 156.49414 a 208.25972,208.25972 0 0 1 104.1289,-180.35938 208.25972,208.25972 0 0 1 208.25977,0 208.25972,208.25972 0 0 1 104.13086,180.35938 H 918.59766 A 364.7527,364.7527 0 0 0 736.2207,494.55664 a 364.7527,364.7527 0 0 0 -364.75195,0 z"
+                   transform="scale(0.26458333)" />
+                <path
+                   style="fill:#a1a1b1;fill-opacity:1;stroke:#a1a1b1;stroke-width:1.00243;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 146.00891,107.37732 v 10.38104"
+                   id="path2827-2" />
+              </g>
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-weight:normal;font-size:11.2573px;line-height:1.25;font-family:sans-serif;fill:#9c9cad;fill-opacity:1;stroke:#000000;stroke-width:0.281435;stroke-opacity:0"
+                 x="138.89719"
+                 y="115.83243"
+                 id="text1632-0-7-9"
+                 inkscape:transform-center-x="1.1064098"
+                 inkscape:transform-center-y="1.2095588e-05"><tspan
+                   sodipodi:role="line"
+                   id="tspan1630-3-9-12"
+                   x="138.89719"
+                   y="115.83243"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#9c9cad;fill-opacity:1;stroke:#000000;stroke-width:0.281435;stroke-opacity:0">50%</tspan></text>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.176282"
+               x="146.70741"
+               y="199.84917"
+               id="text1632-0-4-1-5-7-7"
+               inkscape:transform-center-x="11.075025"
+               inkscape:transform-center-y="-12.281582"><tspan
+                 sodipodi:role="line"
+                 x="146.70741"
+                 y="199.84917"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:center;text-anchor:middle;fill:#a1a1b1;fill-opacity:1;stroke-width:0.176282"
+                 id="tspan3066-0">Votos válidamente</tspan><tspan
+                 sodipodi:role="line"
+                 x="146.70741"
+                 y="213.27475"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:center;text-anchor:middle;fill:#a1a1b1;fill-opacity:1;stroke-width:0.176282"
+                 id="tspan1541-9">emitidos</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g1893-5"
+           transform="translate(0,245.60334)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:11.1467px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.278669"
              x="-129.04794"
              y="206.8732"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#a1a1b1;fill-opacity:1;stroke-width:0.278669">Votos</tspan></text>
-      </g>
-      <g
-         id="g1901-4"
-         transform="translate(0,245.60334)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.1467px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.27867"
-           x="401.24915"
-           y="206.8732"
-           id="text1632-0-4-1-3-08"
-           inkscape:transform-center-x="17.50762"
-           inkscape:transform-center-y="-19.414906"><tspan
-             sodipodi:role="line"
-             id="tspan1630-3-44-5-6-1"
+             id="text1632-0-4-1-47"
+             inkscape:transform-center-x="17.50762"
+             inkscape:transform-center-y="-19.414906"><tspan
+               sodipodi:role="line"
+               id="tspan1630-3-44-5-2"
+               x="-129.04794"
+               y="206.8732"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#a1a1b1;fill-opacity:1;stroke-width:0.278669">Votos</tspan></text>
+        </g>
+        <g
+           id="g1901-4"
+           transform="translate(0,245.60334)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:11.1467px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.27867"
              x="401.24915"
              y="206.8732"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#a1a1b1;fill-opacity:1;stroke-width:0.27867">Votos</tspan></text>
-      </g>
-      <g
-         id="g2121"
-         transform="translate(-4.2995605,15.345837)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#797791;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="305.96259"
-           y="488.06229"
-           id="text1632-5-73-3"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-11"
-             x="305.96259"
-             y="488.06229"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#797791;fill-opacity:1;stroke-width:0.286028">Nulo</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#797791;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="-113.02883"
-           y="488.06229"
-           id="text1632-5-73-2-9-0"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-3-3"
-             x="-113.02883"
-             y="488.06229"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#797791;fill-opacity:1;stroke-width:0.286028">Escrutadas</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#797791;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="-93.271568"
-           y="498.42578"
-           id="text1632-5-73-2-5-6-4"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-0-0"
-             x="-93.271568"
-             y="498.42578"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#797791;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:9.02115px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.22553"
-           x="335.60422"
-           y="484.93823"
-           id="text1632-0-4-6-1-3"
-           inkscape:transform-center-x="0.88652729"
-           inkscape:transform-center-y="-3.5662451e-06"><tspan
-             sodipodi:role="line"
-             id="tspan1630-3-44-2-8-9"
-             x="335.60422"
-             y="484.93823"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#a1a1b1;fill-opacity:1;stroke-width:0.22553" /></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:9.02115px;line-height:1.25;font-family:sans-serif;fill:#a1a1b1;fill-opacity:1;stroke:none;stroke-width:0.22553"
-           x="334.22797"
-           y="497.25449"
-           id="text1632-0-4-6-1-7-1"
-           inkscape:transform-center-x="0.88652729"
-           inkscape:transform-center-y="-3.5662451e-06"><tspan
-             sodipodi:role="line"
-             id="tspan1630-3-44-2-8-5-9"
-             x="334.22797"
-             y="497.25449"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#a1a1b1;fill-opacity:1;stroke-width:0.22553" /></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="-97.441246"
-           y="475.18658"
-           id="text1632-5-73-2-5-7-0"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-5-5"
-             x="-97.441246"
-             y="475.18658"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;stroke-width:0.286028">Mesas</tspan></text>
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.271965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M -110.92393,477.65858 H -3.2234374"
-           id="path1227-6" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#797791;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="58.365704"
-           y="488.33688"
-           id="text1632-5-73-2-9-5-6"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-3-9-4"
-             x="58.365704"
-             y="488.33688"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#797791;fill-opacity:1;stroke-width:0.286028">Válidos</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#797791;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="58.543793"
-           y="498.42578"
-           id="text1632-5-73-2-5-6-2-0"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-0-2-0"
-             x="58.543793"
-             y="498.42578"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#797791;fill-opacity:1;stroke-width:0.286028">Totales</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="55.961601"
-           y="474.78271"
-           id="text1632-5-73-2-5-7-6-7"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-7-5-1-5"
-             x="55.961601"
-             y="474.78271"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'LEMON MILK';-inkscape-font-specification:'LEMON MILK';fill:#ffffff;stroke-width:0.286028">VOTOS</tspan></text>
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.368427px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 41.949754,476.72552 H 239.60022"
-           id="path1227-2-6" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.4411px;line-height:1.25;font-family:sans-serif;fill:#797791;fill-opacity:1;stroke:none;stroke-width:0.286028"
-           x="295.5853"
-           y="498.42578"
-           id="text1632-5-73-93-9"><tspan
-             sodipodi:role="line"
-             id="tspan1630-9-65-1-8"
-             x="295.5853"
-             y="498.42578"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#797791;fill-opacity:1;stroke-width:0.286028">Blanco</tspan></text>
+             id="text1632-0-4-1-3-08"
+             inkscape:transform-center-x="17.50762"
+             inkscape:transform-center-y="-19.414906"><tspan
+               sodipodi:role="line"
+               id="tspan1630-3-44-5-6-1"
+               x="401.24915"
+               y="206.8732"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#a1a1b1;fill-opacity:1;stroke-width:0.27867">Votos</tspan></text>
+        </g>
       </g>
     </g>
     <g

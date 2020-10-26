@@ -36,7 +36,8 @@ def generate_image(data):
     draw.arc(FIRST_DONUT, 360 - arc_left, 360, BLUE, 142)
     ## Tabla de detalles
     ### Mesas
-    draw.text((BOXES_DETAIL_X, FIRST_DETAIL1_Y),data["constitucion"]["mesas"]["escrutadas"],WHITE,font=details_font)
+    table_escrutada_first = "{:.2f}".format(int(data["constitucion"]["mesas"]["escrutadas"].replace(".","")) / int(data["constitucion"]["mesas"]["total"].replace(".","")) * 100)
+    draw.text((BOXES_DETAIL_X, FIRST_DETAIL1_Y),"{} ({}% totales)".format(data["constitucion"]["mesas"]["escrutadas"],table_escrutada_first),WHITE,font=details_font)
     draw.text((BOXES_DETAIL_X, FIRST_DETAIL2_Y),data["constitucion"]["mesas"]["total"],WHITE,font=details_font)
     ### Votos
     perc_total_first = "{:.2f}".format(int(data['constitucion']['votos']['válidamente emitidos']['votos'].replace(".","")) / TOTAL_VOTANTES * 100)
@@ -65,10 +66,11 @@ def generate_image(data):
 
 
     ## Tabla de detalles
-    draw.text((BOXES_DETAIL_X, SECOND_DETAIL1_Y),data["organo"]["mesas"]["escrutadas"],WHITE,font=details_font)
+    ### Mesas
+    table_escrutada_second = "{:.2f}".format(int(data["organo"]["mesas"]["escrutadas"].replace(".","")) / int(data["organo"]["mesas"]["total"].replace(".","")) * 100)
+    draw.text((BOXES_DETAIL_X, SECOND_DETAIL1_Y),"{} ({}% totales)".format(data["organo"]["mesas"]["escrutadas"],table_escrutada_second),WHITE,font=details_font)
     draw.text((BOXES_DETAIL_X, SECOND_DETAIL2_Y),data["organo"]["mesas"]["total"],WHITE,font=details_font)
     ### Votos
-
     perc_total_second = "{:.2f}".format(int(data['organo']['votos']['válidamente emitidos']['votos'].replace(".","")) / TOTAL_VOTANTES * 100)
     draw.text((VOTES_DETAIL_X, SECOND_DETAIL1_Y),f"{data['organo']['votos']['válidamente emitidos']['votos']} ({data['organo']['votos']['válidamente emitidos']['porcentaje']} totales)",WHITE,font=details_font)
     draw.text((VOTES_DETAIL_X, SECOND_DETAIL2_Y),f"{data['organo']['votos']['total votación']['votos']} ({perc_total_second}% padrón)",WHITE,font=details_font)
