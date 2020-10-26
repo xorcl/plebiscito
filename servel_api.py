@@ -60,17 +60,31 @@ def data_changed(data):
         save_state(data)
         data_date_1 = datetime.datetime.strptime(data["constitucion"]["fecha"], READABLE_DATE)
         state_date_1 = datetime.datetime.strptime(state["constitucion"]["fecha"], READABLE_DATE)
+        newest_data_date_1 = max(data_date_1, state_date_1)
         if data_date_1 > state_date_1:
             newest_data["constitucion"] = data["constitucion"]
         else:
             newest_data["constitucion"] = state["constitucion"]
         data_date_2 = datetime.datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
         state_date_2 = datetime.datetime.strptime(state["organo"]["fecha"], READABLE_DATE)
+        newest_data_date_2 = max(data_date_2, state_date_2)
         if data_date_1 > state_date_1:
             newest_data["organo"] = data["organo"]
         else:
-            newest_data["organo"] = state["organo"]        
-        return max(state_date_1, state_date_2) > max(data_date_1, data_date_2), newest_data
+            newest_data["organo"] = state["organo"]
+        newest_data_date = max(newest_data_date_1, newest_data_date_2)
+        state_date = max(state_date_1, state_date_2)
+        logging.info(f"newest_date={newest_data_date.strftime(READABLE_DATE)}, state_date={state_date.strftime(READABLE_DATE)}")
+        return state_date < newest_data_date, newest_data
     except Exception:
         # No state:
         return True, data
+
+def same_data(d1, d2):
+    da = d1.copy()
+    db = d2.copy()
+    del da["constitucion"]["fecha"]
+    del da["organo"]["fecha"]
+    del db["constitucion"]["fecha"]
+    del db["organo"]["fecha"]
+    return da == db
