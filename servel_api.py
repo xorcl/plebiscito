@@ -9,12 +9,7 @@ from img_constants import READABLE_DATE
 import logging
 
 def get_servel_data(conf):
-    constitucion = requests.get(conf["constitucion"])
-    organo = requests.get(conf["organo"])
-    return {
-        "constitucion": servel_to_state(constitucion),
-        "organo": servel_to_state(organo)
-    }
+    return servel_to_state(requests.get(conf["url"]))
 
 def servel_to_state(req):
     data = req.json()
@@ -31,7 +26,8 @@ def servel_to_state(req):
         state["resultados"][v["a"].lower()] = {
             "votos": v["c"],
             "porcentaje": v["d"],
-            "ganadora": v["f"]
+            "ganadora": v["f"],
+            "candidatos": {},
         }
     for v in data["resumen"]:
         if v["a"].lower() in ("válidamente emitidos", "total votación"):
@@ -57,23 +53,14 @@ def data_changed(data):
     newest_data = {}
     try:
         state = load_state()
-        data_date_1 = datetime.datetime.strptime(data["constitucion"]["fecha"], READABLE_DATE)
-        state_date_1 = datetime.datetime.strptime(state["constitucion"]["fecha"], READABLE_DATE)
-        newest_data_date_1 = max(data_date_1, state_date_1)
-        if data_date_1 > state_date_1:
-            newest_data["constitucion"] = data["constitucion"]
+        data_date = datetime.datetime.strptime(data["fecha"], READABLE_DATE)
+        state_date = datetime.datetime.strptime(state["fecha"], READABLE_DATE)
+        newest_data_date = max(data_date, state_date)
+        if data_date > state_date:
+            newest_data = data
         else:
-            newest_data["constitucion"] = state["constitucion"]
-        data_date_2 = datetime.datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
-        state_date_2 = datetime.datetime.strptime(state["organo"]["fecha"], READABLE_DATE)
-        newest_data_date_2 = max(data_date_2, state_date_2)
-        if data_date_2 > state_date_2:
-            newest_data["organo"] = data["organo"]
-        else:
-            newest_data["organo"] = state["organo"]
+            newest_data = state
         save_state(newest_data)
-        newest_data_date = max(newest_data_date_1, newest_data_date_2)
-        state_date = max(state_date_1, state_date_2)
         logging.info(f"newest_date={newest_data_date.strftime(READABLE_DATE)}, state_date={state_date.strftime(READABLE_DATE)}")
         return state_date < newest_data_date, newest_data
     except Exception:
@@ -84,8 +71,6 @@ def data_changed(data):
 def same_data(d1, d2):
     da = d1.copy()
     db = d2.copy()
-    del da["constitucion"]["fecha"]
-    del da["organo"]["fecha"]
-    del db["constitucion"]["fecha"]
-    del db["organo"]["fecha"]
+    del da["fecha"]
+    del db["fecha"]
     return da == db
