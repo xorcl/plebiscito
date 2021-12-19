@@ -11,7 +11,7 @@ def load_state():
             x = json.load(f)
         return x
     except IOError:
-        return {'constitucion': {}, 'organo': {}}
+        return {}
 
 
 def save_state(res):
