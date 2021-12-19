@@ -32,9 +32,8 @@ class Poster:
             logging.error(f"cannot post in telegram: {e}")
             
     def _gen_text(self, data):
-        fecha1 = datetime.strptime(data["constitucion"]["fecha"], READABLE_DATE)
-        fecha2 = datetime.strptime(data["organo"]["fecha"], READABLE_DATE)
-        return f"Resultados actualizados al {max(fecha1, fecha2).strftime(READABLE_DATE)}. Más información en http://servelelecciones.cl. #servel #plebiscito2020 #chile"
+        fecha = datetime.strptime(data["fecha"], READABLE_DATE)
+        return f"Resultados actualizados al {fecha.strftime(READABLE_DATE)}. Más información en http://servelelecciones.cl. #servel #elecciones2021CL #Chile"
     
 
     def post(self, img, data):

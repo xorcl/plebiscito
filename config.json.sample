@@ -1,7 +1,6 @@
 {
     "servel": {
-        "constitucion": "http://servelelecciones.cl/data/elecciones_constitucion/computo/global/19001.json",
-        "organo": "http://servelelecciones.cl/data/elecciones_convencion/computo/global/19001.json",
+        "presidencial": "https://qa.servelelecciones.cl/data/primarias_presidenciales/computo/global/19001.json",
         "intervalo": 15,
         "force_gen": false
     },

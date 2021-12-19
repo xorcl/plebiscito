@@ -4,3 +4,5 @@ services:
     build: ./ 
     container_name: plebiscito-bot
     restart: always
+    volumes:
+      - ./:/app
